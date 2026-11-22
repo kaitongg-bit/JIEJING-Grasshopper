@@ -1,0 +1,117 @@
+{
+  "host": {
+    "name": "Rhino3D",
+    "version": "8.35.26251",
+    "os": "macOS",
+    "arch": "arm64"
+  },
+  "id": "3449b490-d0f5-4a55-aa5c-9b19492171d7",
+  "identity": {
+    "name": "JIEJING",
+    "version": "0.2.4",
+    "publisher": {
+      "name": "JIEJING Studio",
+      "company": "Carnegie Mellon University",
+      "country": "USA",
+      "url": "https://www.cmu.edu/"
+    },
+    "copyright": "Copyright 2026 JIEJING Studio"
+  },
+  "settings": {
+    "buildPath": "build/",
+    "buildTarget": {
+      "host": {
+        "name": "Rhino3D",
+        "version": "8"
+      },
+      "title": "Rhino3D (8.*)",
+      "slug": "rh8"
+    },
+    "publishTarget": {
+      "title": "McNeel Yak Server"
+    }
+  },
+  "codes": [
+    {
+      "type": "components",
+      "id": "ac4bd123-d1f0-4e13-b5f8-a5aef29d0919",
+      "language": {
+        "id": "*.gh1.grasshopper",
+        "version": "1.*.*"
+      },
+      "title": "JIEJING_Component.ghx",
+      "uri": "JIEJING_Component.ghx",
+      "scripts": [
+        {
+          "id": "288b5e22-dccb-41ca-b5c4-65573f55e3b2",
+          "name": "JIEJING Quick Generate",
+          "nickname": "Quick",
+          "description": "One-component beginner workflow for fabrication-ready Chinese window lattices.",
+          "subcat": "Design"
+        },
+        {
+          "id": "f32d3510-9b23-4c50-a6c7-97501e6cb701",
+          "name": "JIEJING Window",
+          "nickname": "Window",
+          "description": "Validate a closed planar window boundary.",
+          "subcat": "Design"
+        },
+        {
+          "id": "bb870c01-77ee-4979-b497-4bfde3cc486b",
+          "name": "JIEJING Pattern",
+          "nickname": "Pattern",
+          "description": "Choose a curated pattern and fabrication proportions.",
+          "subcat": "Design"
+        },
+        {
+          "id": "57c17e75-77fa-46f9-a06e-c3a29c5a5eb8",
+          "name": "JIEJING Borrowed View",
+          "nickname": "BorrowedView",
+          "description": "Configure an optional borrowed-view opening.",
+          "subcat": "Design"
+        },
+        {
+          "id": "217767aa-0215-4d19-b627-5a03d5f6ed3b",
+          "name": "JIEJING Image Field",
+          "nickname": "ImageField",
+          "description": "Configure an optional non-AI semantic image field.",
+          "subcat": "Design"
+        },
+        {
+          "id": "85e46f83-57ef-45a9-8afe-64fbf3ca924c",
+          "name": "JIEJING Compose",
+          "nickname": "Compose",
+          "description": "Compose the modular inputs into closed fabrication curves.",
+          "subcat": "Make"
+        },
+        {
+          "id": "b7ab5ec8-cc98-47b1-9616-f04c5230c276",
+          "name": "JIEJING Material Preview",
+          "nickname": "Preview",
+          "description": "Create planar material regions for black-white preview.",
+          "subcat": "Make"
+        },
+        {
+          "id": "d69da97d-46b0-4608-9a40-dfbd6b77ea80",
+          "name": "JIEJING Export",
+          "nickname": "Export",
+          "description": "Export 1:1 millimetre DXF, SVG, and PDF files.",
+          "subcat": "Make"
+        }
+      ]
+    }
+  ],
+  "libraries": [
+    {
+      "type": "uri",
+      "library": {
+        "base": "libraries/jiejing",
+        "language": {
+          "id": "*.*.python",
+          "version": "3.*.*"
+        }
+      }
+    }
+  ],
+  "resources": []
+}
