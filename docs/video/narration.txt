@@ -1,0 +1,16 @@
+JIEJING is a beginner-friendly Grasshopper toolkit for creating fabrication-ready Chinese lattice windows.
+
+The workflow starts with a window boundary. In the Baby Starter, all components are already connected, so a new user can begin by changing the width and height.
+
+Fourteen built-in recipes provide different geometric families. Density, lattice weight, and frame weight remain parametric, allowing one rule to adapt to different windows and material constraints.
+
+Borrowed View introduces intentional openness instead of filling the entire panel. The user can choose a traditional profile, such as begonia, plum, ruyi, fan, or gourd, and adjust its scale.
+
+A personal photograph can also control the design. Here, the same cat image is used throughout the demonstration. This is not generative AI. The plugin extracts contrast and edge information, then maps it to the size and openness of repeated lattice cells.
+
+Silhouette, portrait-detail, and hybrid modes offer different balances between recognition and geometric continuity. Image strength and polarity provide further control while keeping the result editable and reproducible.
+
+The material preview shows black as material that remains and white as openings to be cut. After checking connectivity and minimum member width, one switch exports one-to-one DXF, SVG, and PDF files for CAD and laser-cutting workflows.
+
+JIEJING connects traditional spatial ideas with accessible parametric customization, moving from a personal image to a manufacturable window screen.
+

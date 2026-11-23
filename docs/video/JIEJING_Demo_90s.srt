@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:07,500
+JIEJING — Parametric Chinese Lattice Windows
+
+2
+00:00:07,500 --> 00:00:18,000
+Begin with a window boundary. The Baby Starter is already connected.
+
+3
+00:00:18,000 --> 00:00:31,000
+Choose from 14 lattice recipes and adjust density, member width, and frame width.
+
+4
+00:00:31,000 --> 00:00:43,000
+Borrowed View creates intentional openness using traditional profiles.
+
+5
+00:00:43,000 --> 00:00:57,000
+The same cat image controls the lattice through deterministic image analysis—not generative AI.
+
+6
+00:00:57,000 --> 00:01:09,000
+Silhouette, portrait-detail, and hybrid modes balance recognition and continuity.
+
+7
+00:01:09,000 --> 00:01:22,000
+The black-and-white preview distinguishes remaining material from cut openings.
+
+8
+00:01:22,000 --> 00:01:30,000
+Export 1:1 DXF, SVG, and PDF files for fabrication.
+

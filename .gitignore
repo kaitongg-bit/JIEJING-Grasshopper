@@ -6,4 +6,11 @@ __pycache__/
 .vscode/
 build/
 tmp/
+docs/video/scene-*.mp4
+docs/video/*-raw.mp4
+docs/video/screen-*
+docs/video/*.aiff
+docs/video/overlay-*.png
+docs/video/*contact*.png
+docs/video/JIEJING_Demo_90s.mp4
 
