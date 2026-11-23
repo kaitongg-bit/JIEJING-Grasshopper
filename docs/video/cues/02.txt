@@ -1,0 +1,1 @@
+The workflow starts with a window boundary. In the Baby Starter, every component is already connected, so a new user can begin by changing the width and height.

@@ -68,7 +68,7 @@ The cat image in this repository is the common sample used throughout the docume
 
 ![JIEJING video preview](docs/video/JIEJING_Demo_Preview.gif)
 
-- [Watch or download the 92-second MP4](https://github.com/kaitongg-bit/JIEJING-Grasshopper/releases/download/v0.2.4/JIEJING_Demo_90s.mp4)
+- [Watch or download the 77-second MP4](https://github.com/kaitongg-bit/JIEJING-Grasshopper/releases/download/v0.2.4/JIEJING_Demo_90s.mp4)
 - [English subtitle file](docs/video/JIEJING_Demo_90s.srt)
 - [Shot list and narration](docs/VIDEO_SCRIPT_90S.md)
 

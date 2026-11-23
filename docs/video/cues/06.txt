@@ -1,0 +1,1 @@
+Silhouette, portrait-detail, and hybrid modes balance recognition and geometric continuity. Image strength and polarity provide further control while keeping the result editable.

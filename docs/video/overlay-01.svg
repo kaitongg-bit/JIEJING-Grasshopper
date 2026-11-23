@@ -2,6 +2,4 @@
   <rect width="1920" height="132" fill="#f4f0e8"/>
   <text x="960" y="64" text-anchor="middle" font-family="Arial" font-size="50" font-weight="700" fill="#6f1d2a">JIEJING | PARAMETRIC CHINESE LATTICE WINDOWS</text>
   <text x="960" y="108" text-anchor="middle" font-family="Arial" font-size="29" fill="#333333">Personal image → editable field → fabrication-ready geometry</text>
-  <rect x="250" y="987" width="1420" height="66" rx="16" fill="#111111" opacity="0.74"/>
-  <text x="960" y="1031" text-anchor="middle" font-family="Arial" font-size="27" fill="white">A beginner-friendly Grasshopper toolkit for Chinese lattice windows</text>
 </svg>

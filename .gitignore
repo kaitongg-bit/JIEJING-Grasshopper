@@ -13,4 +13,6 @@ docs/video/*.aiff
 docs/video/overlay-*.png
 docs/video/*contact*.png
 docs/video/JIEJING_Demo_90s.mp4
+docs/video/sync/
+docs/video/sync-frame*.png
 

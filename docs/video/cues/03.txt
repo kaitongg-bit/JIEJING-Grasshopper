@@ -1,0 +1,1 @@
+Fourteen built-in recipes provide different geometric families. Density, lattice weight, and frame weight remain parametric, allowing one rule to adapt to different windows and materials.

@@ -1,32 +1,31 @@
 1
-00:00:00,000 --> 00:00:07,500
-JIEJING — Parametric Chinese Lattice Windows
+00:00:00,000 --> 00:00:08,690
+JIEJING is a beginner-friendly Grasshopper toolkit for creating fabrication-ready Chinese lattice windows from traditional geometry and optional personal images.
 
 2
-00:00:07,500 --> 00:00:18,000
-Begin with a window boundary. The Baby Starter is already connected.
+00:00:08,690 --> 00:00:17,549
+The workflow starts with a window boundary. In the Baby Starter, every component is already connected, so a new user can begin by changing the width and height.
 
 3
-00:00:18,000 --> 00:00:31,000
-Choose from 14 lattice recipes and adjust density, member width, and frame width.
+00:00:17,549 --> 00:00:28,452
+Fourteen built-in recipes provide different geometric families. Density, lattice weight, and frame weight remain parametric, allowing one rule to adapt to different windows and materials.
 
 4
-00:00:31,000 --> 00:00:43,000
-Borrowed View creates intentional openness using traditional profiles.
+00:00:28,452 --> 00:00:39,346
+Borrowed View introduces intentional openness instead of filling the entire panel. The user can choose a traditional profile, such as begonia, plum, ruyi, fan, or gourd.
 
 5
-00:00:43,000 --> 00:00:57,000
-The same cat image controls the lattice through deterministic image analysis—not generative AI.
+00:00:39,346 --> 00:00:49,377
+The same cat image is used throughout this demonstration. This is not generative AI. The plugin extracts contrast and edge information, then maps it to repeated lattice cells.
 
 6
-00:00:57,000 --> 00:01:09,000
-Silhouette, portrait-detail, and hybrid modes balance recognition and continuity.
+00:00:49,377 --> 00:00:59,840
+Silhouette, portrait-detail, and hybrid modes balance recognition and geometric continuity. Image strength and polarity provide further control while keeping the result editable.
 
 7
-00:01:09,000 --> 00:01:22,000
-The black-and-white preview distinguishes remaining material from cut openings.
+00:00:59,840 --> 00:01:07,909
+The material preview shows black as material that remains and white as openings to be cut. Check connectivity and member width before fabrication.
 
 8
-00:01:22,000 --> 00:01:30,000
-Export 1:1 DXF, SVG, and PDF files for fabrication.
-
+00:01:07,909 --> 00:01:17,071
+One switch exports one-to-one DXF, SVG, and PDF files, moving from a personal image to an editable and manufacturable window screen.
